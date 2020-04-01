@@ -1,2 +1,2 @@
 # ServerMonitor
-A windows console app that logs resource usage 
+A windows C# console app that logs resource usage 
